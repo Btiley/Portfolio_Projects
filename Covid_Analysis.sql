@@ -130,19 +130,4 @@ and CD.date = CV.date
 WHERE CD.continent is not null 
 --order by 2,3
 
-SELECT * FROM PercentPopulationVaccinated
-
-
--- Work view/ work table set aside to be used consistently
-
-
-
-
-
-
---Query Ideas--
-
-
--- Tests performed vs positive rate
-
 
